@@ -351,21 +351,21 @@ section.logo img{
       
   }
   } 
-  @media(max-width: 530px)
-  {
-    .arrival img{
-      margin-left: 150px;
-      
-  }
-  } 
-  
-   @media(max-width: 266px)
-  {
-    .arrival img{
-      margin-left: 150px;
-      
-  }
-  }
+@media(max-width: 530px)
+{
+  .arrival img{
+    margin-left: 100px;
+    
+}
+} 
+
+ @media(max-width: 459px)
+{
+  .arrival img{
+    margin-left: 50px;
+    
+}
+}
 
    @media(max-width: 576px)
 {
